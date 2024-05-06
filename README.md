@@ -1,0 +1,4 @@
+# AEKFI (Automatic Extraction of Keywords using Frequent Itemsets)
+The Abstract-Automatic Extraction of Keywords using the Frequent Item-sets (AEKFI) technique presents a novel keyword extraction approach that leverages word adjacency within a document. Unlike traditional methods that rely on a corpus, AEKFI automatically identifies the most discriminative words within a document. Introduction of a binomial heap-based approach for AEKFI utilizes binomial minimum heap operations for keyword extraction (insertion, minimum extraction, and deletion).
+
+One notable feature of AEKFI is its flexibility in selecting keywords. It allows for extracting the entire set of keywords from a document or a user-specified number without limiting keyword length. Implementing a Binomial Heap Extractor significantly reduces the time complexity from O(n^2) to O(n log n) compared to existing methods.
