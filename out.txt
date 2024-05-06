@@ -1,0 +1,114 @@
+596 615 opinion
+549 614 specify
+584 589 positive
+590 593 somewhat
+552 570 following
+455 459 e
+525 527 minutes
+547 558 others
+548 613 please
+532 535 hours
+503 626 education
+517 550 often
+471 540 platforms
+315 403 healthy
+378 383 professionals
+426 458 j
+449 462 b
+453 489 g
+428 492 w
+380 410 policymakers
+386 413 develop
+379 396 educators
+356 361 measures
+358 367 design
+372 375 implications
+357 366 crosssectional
+350 352 limitations
+355 360 selfreport
+332 619 reducing
+0 5 research
+86 213 perceived
+112 263 predictors
+229 239 using
+286 313 interventions
+298 299 conclusion
+314 402 promote
+287 319 address
+272 310 findings
+285 312 need
+271 309 studys
+143 321 outcomes
+164 284 highlights
+189 598 contribute
+144 611 addiction
+135 194 including
+142 190 negative
+115 148 problems
+103 140 also
+108 198 fomo
+110 561 missing
+111 262 significant
+109 560 fear
+106 196 comparison
+107 145 cyberbullying
+104 257 found
+98 141 associated
+100 180 anxiety
+101 181 stress
+99 179 depression
+93 246 showed
+97 250 positively
+92 244 results
+49 62 mental
+66 160 literature
+74 201 administered
+78 205 collect
+85 212 status
+76 203 university
+70 165 existing
+73 200 survey
+67 161 review
+53 65 adults
+57 151 investigate
+61 82 use
+56 150 aims
+51 116 among
+52 64 young
+50 63 health
+27 243 analysis
+31 567 always
+47 59 social
+48 60 media
+46 58 impact
+29 188 factors
+30 44 students
+28 199 methods
+14 39 papers
+22 55 study
+25 79 data
+15 362 may
+2 4 example
+9 12 actual
+1 6 paper
+
+Strings of length 2
+549 614 please specify
+1 6 research paper
+100 180 depression anxiety
+286 313 need interventions
+356 361 selfreport measures
+358 367 crosssectional design
+315 403 promote healthy
+112 263 significant predictors
+272 310 studys findings
+110 561 fear missing
+57 151 aims investigate
+74 201 survey administered
+86 213 status perceived
+67 161 literature review
+50 63 mental health
+53 65 young adults
+47 59 impact social
+
+Strings of length 4
